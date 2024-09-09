@@ -1,0 +1,7 @@
+C:\Users\luyou\OneDrive\Desktop\repos\TestingGitActions\TestingGitActions\bin\Debug\TestingGitActions.exe.config
+C:\Users\luyou\OneDrive\Desktop\repos\TestingGitActions\TestingGitActions\bin\Debug\TestingGitActions.exe
+C:\Users\luyou\OneDrive\Desktop\repos\TestingGitActions\TestingGitActions\bin\Debug\TestingGitActions.pdb
+C:\Users\luyou\OneDrive\Desktop\repos\TestingGitActions\TestingGitActions\obj\Debug\TestingGitActions.csproj.AssemblyReference.cache
+C:\Users\luyou\OneDrive\Desktop\repos\TestingGitActions\TestingGitActions\obj\Debug\TestingGitActions.csproj.CoreCompileInputs.cache
+C:\Users\luyou\OneDrive\Desktop\repos\TestingGitActions\TestingGitActions\obj\Debug\TestingGitActions.exe
+C:\Users\luyou\OneDrive\Desktop\repos\TestingGitActions\TestingGitActions\obj\Debug\TestingGitActions.pdb
